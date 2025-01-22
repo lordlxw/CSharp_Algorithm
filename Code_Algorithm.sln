@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数元素", "Code_Algorithm\数元素.csproj", "{800DCA08-0BA3-4B93-9BE1-E5CE42688D85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "最大连续1的个数", "最大连续1的个数\最大连续1的个数.csproj", "{60293969-3A7D-4F73-B4BF-A92A93670738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{800DCA08-0BA3-4B93-9BE1-E5CE42688D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800DCA08-0BA3-4B93-9BE1-E5CE42688D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800DCA08-0BA3-4B93-9BE1-E5CE42688D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800DCA08-0BA3-4B93-9BE1-E5CE42688D85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60293969-3A7D-4F73-B4BF-A92A93670738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60293969-3A7D-4F73-B4BF-A92A93670738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60293969-3A7D-4F73-B4BF-A92A93670738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60293969-3A7D-4F73-B4BF-A92A93670738}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
