@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数元素", "Code_Algorithm\数元素.csproj", "{800DCA08-0BA3-4B93-9BE1-E5CE42688D85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "数元素", "Code_Algorithm\数元素.csproj", "{800DCA08-0BA3-4B93-9BE1-E5CE42688D85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "最大连续1的个数", "最大连续1的个数\最大连续1的个数.csproj", "{60293969-3A7D-4F73-B4BF-A92A93670738}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "最大连续1的个数", "最大连续1的个数\最大连续1的个数.csproj", "{60293969-3A7D-4F73-B4BF-A92A93670738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "三数之和", "三数之和\三数之和.csproj", "{9975842D-57E6-48B1-B429-BA09735C6931}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,8 +23,15 @@ Global
 		{60293969-3A7D-4F73-B4BF-A92A93670738}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60293969-3A7D-4F73-B4BF-A92A93670738}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60293969-3A7D-4F73-B4BF-A92A93670738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9975842D-57E6-48B1-B429-BA09735C6931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9975842D-57E6-48B1-B429-BA09735C6931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9975842D-57E6-48B1-B429-BA09735C6931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9975842D-57E6-48B1-B429-BA09735C6931}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4464B8EA-E4DA-4540-AA20-E1C442376F17}
 	EndGlobalSection
 EndGlobal
